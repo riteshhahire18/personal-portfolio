@@ -2,8 +2,6 @@
 
 A modern, responsive, and interactive personal portfolio website showcasing projects, skills, education, certifications, and contact channels.
 
-![Portfolio Preview](assets/images/hero-avatar.jpg)
-
 ## ✨ Features
 
 - **Dynamic Interactive Canvas**: Custom particle background with physics and interaction.
